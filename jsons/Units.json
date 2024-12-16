@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Soul Archer",
+    "replaces": "Composite Bowman",
+    "uniqueTo": "The Cursed Realm",
+    "unitType": "Archery",
+    "movement": 2,
+    "strength": 5,
+    "rangedStrength": 14,
+    "cost": 75,
+    "uniques": ["May capture killed [Land] units <with [70]% chance>"],
+    "requiredTech": "Construction",
+    "obsoleteTech": "Machinery",
+    "upgradesTo": "Crossbowman",
+    "attackSound": "arrow"
+  },
+  {
+    "name": "Obsessed Mech",
+    "replaces": "Catapult",
+    "uniqueTo": "The Cursed Realm",
+    "unitType": "Armored",
+    "movement": 4,
+    "strength": 10,
+    "cost": 75,
+    "requiredTech": "Mathematics",
+    "obsoleteTech": "Physics",
+    "upgradesTo": "Trebuchet",
+    "uniques": ["[+150]% Strength <vs cities> <when attacking>",
+    "No defensive terrain bonus",
+    "Can move after attacking", "Never appears as a Barbarian unit"],
+    "attackSound": "gdrAttack"
+  },
+]

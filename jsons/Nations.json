@@ -1,0 +1,32 @@
+[
+{
+	"name": "The Cursed Realm",
+	"adjective": ["Ninjagian"],
+	"leaderName": "The Preeminent",
+	"preferredVictoryType": "Domination",
+	"startBias": ["Marsh"],
+
+	"declaringWar": "The time has come to unleash chaos upon Ninjago! Prepare for war, for I will not rest until all are consumed by darkness!",
+	"attacked": "Foolish mortals! You think you can challenge me? Feel the true power of the Cursed Realm!",
+	"defeated": "No... this cannot be! The shadows... they betray me! I will return, and Ninjago will tremble once more!",
+	"introduction": "I am The Preeminent, the embodiment of despair, the harbinger of the Cursed Realm. Bow before my darkness.",
+
+	"neutralHello": "Ah, a visitor in my realm. What brings you to the shadows?",
+	"hateHello": "You dare approach me? Your presence sickens me. Leave, or face the wrath of I!",
+
+	"tradeRequest": "I wonder what you could possibly offer that is worthy of my attention? Speak quickly, before I change my mind.",
+
+	"outerColor": [0, 3, 47],
+	"innerColor": [0, 255, 174],
+
+	"uniqueName": "Ghost Nature",
+	"uniques": [
+  "Comment [Land units may withdraw from combat with a 30% chance]",
+  "Comment [-25% Strength for land units adjacent to fresh water tiles]",
+  "Comment [-25% Strength for land units in fresh water tiles]",
+  "[Land] units gain the [Ghost Nature] promotion <hidden from users>"],
+
+  "spyNames": ["Morro", "Banja", "Shadow Whisper", "Veilwalker", "Nightshade Phantom", "Cinder Veil", "Wraith Stalker", "Eclipse Ninja", "Gloom Scribe", "Specter Warden", "Dusk Harbinger", "Obsidian Shade"],
+	"cities": ["The Core", "The Rib Corridor", "Guts", "Tunnel of Curses", "Prisoner Chamber", "Stomach Room", "Land of Ghosts", "The Phantom Hills", "Plains of Cinder"],
+},
+]
